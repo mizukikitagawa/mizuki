@@ -1,0 +1,44 @@
+p.sub-title1{color: aqua;}
+
+p#sub-title2{color: salmon;}
+
+h1{color: red;
+    font-size: 50pt;
+    font-weight: bold}
+
+    span.campany{color: springgreen;}
+
+    div.box1{height: 100px;
+        width: 100px;
+        border-radius: 50% 50% 0% 50%;
+        position: absolute;
+  left: 10bpx;
+  top: 10px;
+margin:10px;
+        background-color: green;}
+    
+    div.box2{height: 100px;
+            width: 100px;
+          border-radius: 50% 50% 50% 0%;
+          position: absolute;
+  left: 115px;
+  top: 10px;
+margin:10px;
+            background-color: green;}
+
+    div.box3{height: 100px;
+                width: 100px;
+                border-radius: 50% 0% 50% 0%;
+                position: absolute;
+  left: 10px;
+  top: 115px;
+margin:10px ;
+                background-color: green;}
+div.box4{height: 100px;
+                    width: 100px;
+                    border-radius: 0% 50% 0% 50%;
+                    position: absolute;
+      left: 115px;
+      top: 115px;
+    margin:10px;
+                    background-color: green;}
